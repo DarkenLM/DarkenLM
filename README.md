@@ -1,7 +1,8 @@
 <h2 align="center">Hello! Darken here<br/>and welcome to my frontpage</h2>
 
 ### Who am I?
-- 📝 I'm Rafael Fernandes, commonly known as DarkenLM. Currently taking a upper secondary scientific-humanistic course in Science and Technology.  
+- 📝 I'm Rafael Fernandes, commonly known as DarkenLM.  
+- 🎓 Qualifications: Finished an upper secondary scientific-humanistic course in Science and Technology.  
 - 📟 Experience: I'm a Node.js with 10+ years of experience.  
 - 💭 Current goals: Attend university and get a PhD in Informatics Engineering.
 - 💬 Currently learning Typescript and Rust.

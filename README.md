@@ -1,6 +1,6 @@
 <h2 align="center">Hello! Darken here<br/>and welcome to my frontpage</h2>
 
-### Some things About me
+### Some things about me
 - 📝 I'm Rafael Fernandes, commonly known as DarkenLM.  
 - 🎓 Qualifications: Finished an upper secondary scientific-humanistic course in Science and Technology.  
 - 📟 Experience: I'm a Node.js developer with 10+ years of experience.  

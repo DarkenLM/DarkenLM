@@ -5,7 +5,7 @@
 - 🎓 Qualifications: Finished an upper secondary scientific-humanistic course in Science and Technology.  
 - 📟 Experience: I'm a Node.js developer with 10+ years of experience.  
 - 💭 Current goals: Finish university and get a PhD in Informatics Engineering.
-- 💬 Currently learning Typescript and Rust.
+- 💬 Currently learning and Rust.
 - ⚡ Fun fact: I like a game with a good story.
 
 <h3 align="center">IDEs I use(d)</h3>  

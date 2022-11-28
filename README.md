@@ -3,8 +3,8 @@
 ### Who am I?
 - 📝 I'm Rafael Fernandes, commonly known as DarkenLM.  
 - 🎓 Qualifications: Finished an upper secondary scientific-humanistic course in Science and Technology.  
-- 📟 Experience: I'm a Node.js with 10+ years of experience.  
-- 💭 Current goals: Attend university and get a PhD in Informatics Engineering.
+- 📟 Experience: I'm a Node.js developer with 10+ years of experience.  
+- 💭 Current goals: Finish university and get a PhD in Informatics Engineering.
 - 💬 Currently learning Typescript and Rust.
 - ⚡ Fun fact: I like a game with a good story.
 
